@@ -1,0 +1,9 @@
+// Global styles
+@import '_variables.scss';
+
+// Add your global styles here
+body {
+  margin: 0;
+  font-family: $font-family; // Example using a variable
+  // background-color: $background-color; // Example using a variable
+}
